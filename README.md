@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--Replace <username> with your own GitHub username.-->
+https://pixel-profile.vercel.app/api/github-stats?username=<xiangshu233>
+
 <!--
 **xiangshu233/xiangshu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
